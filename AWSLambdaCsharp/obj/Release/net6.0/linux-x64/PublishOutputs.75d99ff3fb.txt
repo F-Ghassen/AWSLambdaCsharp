@@ -1,0 +1,10 @@
+C:\Users\g.fathallah\Desktop\Projects\AWSProjects\AWSLambdaCsharp\AWSLambdaCsharp\bin\Release\net6.0\publish\AWSLambdaCsharp.deps.json
+C:\Users\g.fathallah\Desktop\Projects\AWSProjects\AWSLambdaCsharp\AWSLambdaCsharp\bin\Release\net6.0\publish\AWSLambdaCsharp.runtimeconfig.json
+C:\Users\g.fathallah\Desktop\Projects\AWSProjects\AWSLambdaCsharp\AWSLambdaCsharp\bin\Release\net6.0\publish\AWSLambdaCsharp.pdb
+C:\Users\g.fathallah\Desktop\Projects\AWSProjects\AWSLambdaCsharp\AWSLambdaCsharp\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\g.fathallah\Desktop\Projects\AWSProjects\AWSLambdaCsharp\AWSLambdaCsharp\bin\Release\net6.0\publish\Amazon.Lambda.S3Events.dll
+C:\Users\g.fathallah\Desktop\Projects\AWSProjects\AWSLambdaCsharp\AWSLambdaCsharp\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\g.fathallah\Desktop\Projects\AWSProjects\AWSLambdaCsharp\AWSLambdaCsharp\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\g.fathallah\Desktop\Projects\AWSProjects\AWSLambdaCsharp\AWSLambdaCsharp\bin\Release\net6.0\publish\AWSSDK.S3.dll
+C:\Users\g.fathallah\Desktop\Projects\AWSProjects\AWSLambdaCsharp\AWSLambdaCsharp\bin\Release\net6.0\publish\SixLabors.ImageSharp.dll
+C:\Users\g.fathallah\Desktop\Projects\AWSProjects\AWSLambdaCsharp\AWSLambdaCsharp\bin\Release\net6.0\publish\AWSLambdaCsharp.dll
